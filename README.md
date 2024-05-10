@@ -1,16 +1,16 @@
  <div align="center">
 <img src="https://res.cloudinary.com/dy4lvqyuv/image/upload/v1690910300/Ashutosh/qf5xxhht592oo9m5k9hq.png" alt="image" border="0"/>
- </div>
+</a>
 
 # DEV-G  <a name="dev"></a>
-> ## [visite to DEV-G](https://edtech-dev-g-frontend.vercel.app/)
+> ## [visit to DEV-G](https://edtech-dev-g-frontend.vercel.app/)
 
 
-Welcome to the[ **LEARN.MD**](https://github.com/ashutoshgithubs/iemhacks_DEV-G/blob/main/LEARNME.md) for the **DEV-G** EdTech project
+Welcome to the[ **LEARN.md**](https://github.com/ashutoshgithubs/iemhacks_DEV-G/blob/main/LEARNME.md) for the **DEV-G** EdTech project
 
 This is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS
 
-This guide will walk you through setting up and building your own instance of **DEV-G** Whether you're a seasoned developer or just starting out, we'll provide clear instructions and helpful tips to get you up and running. this ` LEARN.MD` will equip you with the knowledge to set up and build your own instance of  DEV-G. We'll provide step-by-step instructions and helpful tips, whether you're a coding veteran or just embarking on your development journey.
+This guide will walk you through setting up and building your own instance of **DEV-G** whether you're a seasoned developer or just starting out, we'll provide clear instructions and helpful tips to get you up and running. This ` LEARN.md` will equip you with the knowledge to set up and build your own instance of  DEV-G. We'll provide step-by-step instructions and helpful tips, whether you're a coding veteran or just embarking on your development journey.
 
 
 ## Table of Contents 
@@ -19,7 +19,7 @@ This guide will walk you through setting up and building your own instance of **
 - [Prerequisites](#pre)
 -  [Gearing Up for Development  Setup](#set)
 - [Resources ](#res)
-- [Contributing Guidelines](#guide)
+- [Contributions Guidelines](#guide)
  - [Deep Dive and Customization ](#deep)
  - [Troubleshooting](#tro)
  - [Message from Project Admin](#admin)
@@ -145,11 +145,11 @@ functionality.
 
 
 
-## Contributing Guidelines <a name="guide"></a>
+## Contributions Guidelines <a name="guide"></a>
 
-If you've got the coding itch and want to contribute to DEV-G EdTech's development, this section provides guidelines on how to fork the repository, create branches, and submit pull requests.
+If you've got the coding idea and want to contribute to DEV-G EdTech's development, this section provides guidelines on how to fork the repository, create branches, and submit pull requests.
 
-- Find  issues labeled by other contributers and the project admin   visit in our [issue tracker](https://github.com/ashutoshgithubs/iemhacks_DEV-G/issues) to start contributing.
+- Find  issues labeled by other contributers and the project admin   visit in our [issue tracker](https://github.com/ashutoshgithubs/iemhacks_DEV-G/issues) to start contributing. you can also create your own issue from your end if you find such issue 
 
 ***Make Your Changes:***
 -   Now you're ready to dive into the code! Open the project in your favorite code editor.
@@ -243,7 +243,7 @@ Getting error messages can be frustrating, but that's part of the learning proce
 
 Join our community to connect with other DEV-G users, ask questions, and share your ideas and issues on :
 
-- [Discussions](https://github.com/singodiyashubham87/draw-it-out/discussions)
+- [Discussions](https://github.com/ashutoshgithubs/iemhacks_DEV-G/discussions/28)
 - [Issues](https://github.com/ashutoshgithubs/iemhacks_DEV-G/issues)
 
 ## License <a name="lic"></a>
@@ -269,3 +269,4 @@ We hope this LEARN.md equips you with the knowledge and confidence to build DEV-
 
 
 
+> want to go back to  top of this page Let 's go  ->  [😎 Go to Top  ](#dev)
