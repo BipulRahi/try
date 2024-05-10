@@ -1,6 +1,6 @@
  <div align="center">
 <img src="https://res.cloudinary.com/dy4lvqyuv/image/upload/v1690910300/Ashutosh/qf5xxhht592oo9m5k9hq.png" alt="image" border="0"/>
-
+ </div>
 
 # DEV-G  <a name="dev"></a>
 > ## [visite to DEV-G](https://edtech-dev-g-frontend.vercel.app/)
